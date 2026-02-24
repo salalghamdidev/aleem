@@ -10,7 +10,7 @@ You can send a direct message to our technical support team via email:
 
 ---
 
-### 💡 Tips for Faster Resolution:
+###  Tips for Faster Resolution:
 To help us assist you quickly, please include the following information in your email (if possible):
 * **Device Type:** (e.g., iPhone 13 or iPad Pro).
 * **OS Version:** (e.g., iOS 17).
@@ -34,7 +34,7 @@ Thank you for using Aleem!
 
 ---
 
-### 💡 نصائح لتسريع حل المشكلة:
+###  نصائح لتسريع حل المشكلة:
 لكي نتمكن من مساعدتك بشكل أسرع وأكثر دقة، نرجو منك تضمين المعلومات التالية في رسالتك (إن أمكن):
 * **نوع جهازك:** (مثال: iPhone 13 أو iPad Pro).
 * **إصدار نظام التشغيل:** (مثال: iOS 17).
