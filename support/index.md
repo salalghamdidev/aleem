@@ -1,9 +1,26 @@
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-</style>
+# "Aleem" App Support
+
+Welcome to the support page for the "Aleem" app. We are here to help!
+
+Whether you have an inquiry, a suggestion for improvement, or are facing a technical issue, we are happy to assist you and will respond as soon as possible.
+
+## Contact Us
+You can send a direct message to our technical support team via email:
+📧 **[contact@aleem.website](mailto:contact@aleem.website)**
+
+---
+
+### 💡 Tips for Faster Resolution:
+To help us assist you quickly, please include the following information in your email (if possible):
+* **Device Type:** (e.g., iPhone 13 or iPad Pro).
+* **OS Version:** (e.g., iOS 17).
+* **Issue Description:** A brief explanation of the problem, and a screenshot if available.
+
+Thank you for using Aleem!
+
+<br>
+<hr>
+<br>
 
 # الدعم الفني لتطبيق "عليم"
 
