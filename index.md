@@ -1,4 +1,76 @@
-<div dir="rtl" lang="ar" style="text-align: right;">
+# Privacy Policy and Terms & Conditions
+
+Welcome to the "Aleem" app. By using this app, you agree to these Terms and Conditions and the Privacy Policy. Please read them carefully.
+
+## 1. Intellectual Property & Integrity
+* **App Rights:** All intellectual property rights related to the app's design, code, visual identity, and logo are reserved to the "Aleem" team.
+* **Content Rights:** We strictly respect the copyrights of others. If any content infringes on third-party rights, we commit to **deleting or modifying it immediately** upon notification.
+* **Our Commitment:** We are dedicated to resolving any content-related complaints as quickly as possible.
+
+## 2. User Conduct & Terms of Use
+* **Acceptable Use:** You agree to use the app only for lawful educational and entertainment purposes.
+* **Prohibitions:** You are strictly prohibited from:
+  * Hacking or reverse-engineering the app.
+  * Using the app to distribute malware.
+  * Engaging in abusive behavior or violating local laws.
+* **User Responsibility:** The app is not responsible for user misuse, but we reserve the right to take appropriate action to stop violations.
+
+## 3. Private Groups & User Content
+The "Aleem" app offers a "Private Groups" feature to create custom questions for family and friends.
+* **Local Storage:** All data related to private groups (text, images, questions) is stored **locally on your device only**. It is not uploaded to our servers.
+* **Content Responsibility:** We have **no control over or access to** this locally generated content, and we do not collect it.
+* **Disclaimer:** The user bears full responsibility for the content they create and use.
+
+## 4. Disclaimer
+* The app is provided on an "As Is" and "As Available" basis without warranties of any kind.
+* We do not guarantee the app will be completely free of occasional errors or interruptions.
+
+## 5. Limitation of Liability
+To the maximum extent permitted by law, the "Aleem" team shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of the app.
+
+---
+
+## 6. Privacy Policy
+This policy explains how we handle your data.
+
+### What information do we collect?
+"Aleem" **does not require user account creation** and does not directly collect personally identifiable information. Data collected automatically may include:
+* Device and OS information.
+* Advertising IDs.
+* App usage data (crash logs, performance metrics).
+* Coarse location data.
+
+### How do we use the information?
+* To analyze app performance and fix bugs.
+* **For Advertising:** To show relevant ads via third-party services like Google AdMob.
+* To respond to your support inquiries.
+
+### Sharing Data with Third Parties
+We do not sell your personal information. We may share non-identifiable technical data with:
+* **Ad Providers:** Like Google AdMob, to display ads.
+* **Analytics Providers:** To track app stability.
+
+### Data Retention & Deletion
+Since "Aleem" does not use an account system, we do not store personal profiles on our servers:
+* **Private Groups Data:** Saved locally. Delete it permanently by **uninstalling the app**.
+* **Support Data:** If you email us, you can request the deletion of your emails, and we will delete them within 14 days.
+
+### Your Choices & Rights
+You can control privacy settings and ad tracking directly through your device's OS settings (e.g., App Tracking Transparency on iOS).
+
+### Families and Children
+The app is designed for families. We do not knowingly collect personal data from children under 13. If you are a parent and believe we have inadvertently collected data from your child, please contact us to delete it immediately.
+
+### Privacy Policy Updates
+This policy was updated on **February 09, 2026**.
+
+## 7. Contact Us
+For inquiries, data deletion requests, or complaints, please email us at:
+📧 **[contact@aleem.website](mailto:contact@aleem.website)**
+
+<br>
+<hr>
+<br>
 
 # سياسة الخصوصية والشروط والأحكام
 
@@ -72,5 +144,3 @@
 ## ٧. اتصل بنا
 إذا كان لديك أي استفسار، طلب لحذف البيانات، أو شكوى، يرجى التواصل معنا عبر البريد الإلكتروني:
 📧 **[contact@aleem.website](mailto:contact@aleem.website)**
-
-</div>
